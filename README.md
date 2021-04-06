@@ -1,1 +1,1 @@
-For this check up I decided to start experimenting with a gamified website, getting objects to move, collide, and adding some sound if possible.
+For this check up I decided to start experimenting with a gamified website, getting objects to move, collide (I ditched this concept for this checkup since I'll have to make my own physics for it to work and not be clunky, but I plan on having that for my final project ) , and adding some sound if possible.
